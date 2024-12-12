@@ -1,0 +1,5 @@
+#add paths to things that you will want to ignore 
+#this says any document that is in a pdf should be ignored
+#you can do it with a whole directory (using example of a data file in your directory) 
+*.pdf 
+data/
